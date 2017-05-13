@@ -8,7 +8,7 @@ h1 {
   font-size: 2.5em;
 }
 
-.skillset {
+.euler1 {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -18,17 +18,7 @@ h1 {
   background-color: #E55126;
 }
 
-.skill-js {
-  background-color: #E5A227;
-}
-
-.skill-jquery {
-  background-color: #0C73B8;
-}
-
-.skill-html,
-.skill-js,
-.skill-jquery {
+.skill-html {
   width: 100%;
   padding: 1em 3em 2em 2em;
   margin: 0.5em;
@@ -56,4 +46,3 @@ ul {
   background-color: #333333;
   color: whitesmoke;
 }
-

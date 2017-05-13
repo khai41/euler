@@ -1,9 +1,9 @@
 function main() {
-  $('.skillset').hide();
-  $('.skillset').fadeIn(1000);
-  
+  $('.threeAndFive').hide();
+  $('.threeAndFive').fadeIn(1000);
+
   $('.projects').hide();
-  
+
   $('.projects-button').on('click', function() {
 		//$('.projects').toggle();
     //$(this).next().toggle();
